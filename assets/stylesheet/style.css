@@ -171,8 +171,14 @@ h6{
 .flex-60{
 	flex: 0 1 60%;
 }
+.flex-55{
+	flex: 0 1 55%;
+}
 .flex-50{
 	flex: 0 1 50%;
+}
+.flex-45{
+	flex: 0 1 45%;
 }
 .flex-40{
 	flex: 0 1 40%;
@@ -316,6 +322,39 @@ h6{
 .home-header-hero-1 a{
 	color: white;
 	font-size: 11px;
+}
+
+/* section */
+.home-section4{
+	background-color: var(--bg);
+}
+.home-section4-div{
+	padding: 150px 0;
+}
+.home-section4-div h3{
+	color: var(--header2);
+	/* font-size: 30px; */
+}
+.home-section4-div p{
+	font-size: 11px;
+	line-height: 2;
+	font-weight: 500;
+	padding: 15px 0 25px 0;
+}
+.home-section4-div button{
+	padding: 10px 35px;
+}
+.home-section4-div a{
+	font-size: 10px;
+}
+.home-section4-img{
+	display: flex;
+	overflow: hidden;
+}
+.home-section4-img img{
+	max-width: 244px;
+	height: 350px;
+	margin-right: 10px;
 }
 
 
