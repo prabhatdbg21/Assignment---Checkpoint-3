@@ -235,12 +235,18 @@ h6{
 .header-address{
 	margin-right: 40px;
 }
+.header-part1 nav a{
+	color: white;
+}
 .header-part2{
 	padding: 25px 32px;
 }
 .header-part2 nav a{
 	color: #1c456c;
 	font-weight: 600;
+}
+.header-part2 button a{
+	color: white;
 }
 .header-part3{
 	text-align: center;
@@ -280,6 +286,9 @@ h6{
 }
 .pages-footer-box1 p{
 	margin-bottom: 30px;
+}
+.pages-footer-box1 nav a{
+	color: #222222;
 }
 .pages-footer-box2{
 	line-height: 2.5;
@@ -536,6 +545,9 @@ h6{
 	width: 40%;
 	background-color: var(--btn);
 	border: 0;
+}
+.about-section5 button a{
+	color: white;
 }
 /* Services */
 /* section 1 */
