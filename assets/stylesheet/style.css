@@ -334,6 +334,10 @@ h6{
 }
 
 /* section */
+.home-section4-article-div{
+	margin-left: 14%;
+	margin-right: 5%;
+}
 .home-section4{
 	background-color: var(--bg);
 }
@@ -342,7 +346,6 @@ h6{
 }
 .home-section4-div h3{
 	color: var(--header2);
-	/* font-size: 30px; */
 }
 .home-section4-div p{
 	font-size: 11px;
@@ -361,8 +364,8 @@ h6{
 	overflow: hidden;
 }
 .home-section4-img img{
-	max-width: 244px;
-	height: 350px;
+	max-width: 280px;
+	height: 360px;
 	margin-right: 10px;
 }
 
@@ -469,6 +472,7 @@ h6{
 	font-weight: 500;
 	margin-bottom: 25px;
 	color: var(--header2);
+	display: block;
 }
 .about-section3 i{
 	color: #fbba42;
